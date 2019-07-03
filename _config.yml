@@ -13,8 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Xiang Luo
-  tagline: Sophomore from
-  Fudan University
+  tagline: Sophomore from Fudan University
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
