@@ -13,7 +13,7 @@ Let $x_0, x_1, ... , x_n$ be distinct real or complex numbers, and let $y_0 , y_
 
 $$
 p(x_i) = y_i, \ \ \ \ i = 0, 1, ..., n
-$$.
+$$
 
 By writing: 		$p(x) = a_0 + a_1x + ... + a_mx^m$
 
@@ -21,11 +21,12 @@ Consider that m = n, then
 
 $$
 a_0 + a_1x_0 + ... + a_mx_0^m = y_0
-            \\.
-            \\.
-            \\
- a_0 + a_1x_n + ... + a_mx_n^m = y_n
+\\              .
+\\              .
+\\
+a_0 + a_1x_n + ... + a_mx_n^m = y_n
 $$
+
 It can be written that $Xa = y$, with
 
 $$
@@ -33,6 +34,7 @@ X = [x_i^j], \ \  i, j = 0, 1, ..., n
 \\
 a = [a_0, a_1, ..., a_n]^T \ y = [y_0, ..., y_n]^T
 $$
+
 The matrix X is called a Vandermonde matrix.
 
 ### Theorem
