@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="893776e4-4aae-4dcc-b136-90a1da62654d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_syntax.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_syntax.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/668521.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/668521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/735294.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/991136.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/portfolio.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +18,8 @@
             <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/_config.yml">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="342">
-                    <caret line="98" column="22" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
+                  <state relative-caret-position="247">
+                    <caret line="84" column="57" selection-start-line="84" selection-start-column="57" selection-end-line="84" selection-end-column="57" />
                   </state>
                 </provider>
               </entry>
@@ -192,12 +181,12 @@
       <updated>1562160608725</updated>
       <workItem from="1562160612258" duration="1631000" />
       <workItem from="1562164886233" duration="356000" />
-      <workItem from="1562724492446" duration="1366000" />
+      <workItem from="1562724492446" duration="1548000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3353000" />
+    <option name="totallyTimeSpent" value="3535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="530" y="138" width="808" height="676" extended-state="1" />
@@ -342,8 +331,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="98" column="22" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
+        <state relative-caret-position="247">
+          <caret line="84" column="57" selection-start-line="84" selection-start-column="57" selection-end-line="84" selection-end-column="57" />
         </state>
       </provider>
     </entry>
