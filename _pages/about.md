@@ -21,6 +21,6 @@ RECENT NEWS
 -   Coming soon!
 
 HONORS & AWARDS
-------
+======
 -   **Tengfei College Freshmen Scholarship**, Fudan University, *2017*
 
