@@ -1,4 +1,4 @@
-```
+---
 title: Interpolation Theory
 toc: true
 date: 2019-07-09
@@ -7,7 +7,7 @@ categories:
 - Numerical Analysis
 - Approximation
 mathjax: true
-```
+---
 
 Let $x_0, x_1, ... , x_n$ be distinct real or complex numbers, and let $y_0 , y_1, ..., y_n$ be associated function values. We now study the problem of finding a polynomial p ( x) that interpolates the given data:
 $$
