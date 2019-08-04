@@ -12,15 +12,12 @@ I am a sophomore at the school of Computer Science at Fudan University, China. M
 
 Here is my Curriculum Vitae ([English](), [Chinese]()).
 
-EDUCATION
-======
--   **B.S. in Computer Science**, <a style="text-decoration:none;" href="http://www.cs.fudan.edu.cn/">Fudan University</a> 2017 - present
+## EDUCATION
+-   **B.S. in Computer Science**, <a style="text-decoration:none;" href="http://www.cs.fudan.edu.cn/">Fudan University</a>, 2017 - present
 
-RECENT NEWS
-======
+## RECENT NEWS
 -   Coming soon!
 
-HONORS & AWARDS
-======
+## HONORS & AWARDS
 -   **Tengfei College Freshmen Scholarship**, Fudan University, *2017*
 

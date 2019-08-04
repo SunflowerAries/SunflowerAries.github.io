@@ -5,6 +5,5 @@ permalink: /awards/
 author_profile: true
 ---
 
-College
-======
+## College
 -   **Tengfei College Freshmen Scholarship**, Fudan University, *2017*
